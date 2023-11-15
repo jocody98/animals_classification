@@ -1,0 +1,9 @@
+1. 목표
+동물 이미지 분류 모델 학습 및 테스트
+
+2. 데이터셋
+6가지 동물 사진 데이터셋, train/test 파일 구분
+https://drive.google.com/drive/folders/1MiRGI7Ovv-VqKMLV2vhSljIkykAdYfd_?usp=drive_link
+
+3. 모델설계
+Resnet50 모델 활용 
